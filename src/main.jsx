@@ -8,12 +8,18 @@ import Home from "./pages/Home/Home.jsx";
 import { FluentProvider, webLightTheme } from "@fluentui/react-components";
 import Shopping from "./pages/Shopping/index.jsx";
 import Travel from "./pages/Travel/index.jsx";
+import Utilities from "./pages/Utilities";
+import Layout from "./components/layout/index.jsx";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    element: <Layout />,
     children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
       {
         path: "/shopping",
         element: <Shopping />,
@@ -21,6 +27,10 @@ const router = createBrowserRouter([
       {
         path: "/travel",
         element: <Travel />,
+      },
+      {
+        path: "/utilities",
+        element: <Utilities />,
       },
       {
         path: "/about",
