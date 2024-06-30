@@ -15,11 +15,11 @@ const router = createBrowserRouter([
     element: <Home />,
     children: [
       {
-        apth: "/shopping",
+        path: "/shopping",
         element: <Shopping />,
       },
       {
-        apth: "/travel",
+        path: "/travel",
         element: <Travel />,
       },
       {
