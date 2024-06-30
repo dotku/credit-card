@@ -7,6 +7,7 @@ import {
   useTheme,
 } from "@fluentui/react";
 import { Card, CardHeader, CardPreview } from "@fluentui/react-components";
+import Translation from "../translation";
 import { useCallback, useMemo } from "react";
 
 const generateStyles = (theme) => {
@@ -74,7 +75,7 @@ export default function Testmonials() {
           }
           description={
             <Text className={classNames.listGridExampleLabel}>
-              {description}
+              <Translation>{description}</Translation>
             </Text>
           }
         />
@@ -85,7 +86,9 @@ export default function Testmonials() {
 
   return (
     <>
-      <h2>听听我们的用户怎么说</h2>
+      <h2>
+        <Translation>听听我们的用户怎么说</Translation>
+      </h2>
       <List
         className={classNames.listGridExample}
         items={data}
