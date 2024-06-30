@@ -1,3 +1,5 @@
+import { Display } from "@fluentui/react-components";
+
 export default function Travel() {
-  return <div>Travel</div>;
+  return <Display>Travel</Display>;
 }

@@ -1,3 +1,5 @@
+import { Display } from "@fluentui/react-components";
+
 export default function Shopping() {
-  return <div>Shopping</div>;
+  return <Display>Shopping</Display>;
 }

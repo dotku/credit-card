@@ -7,7 +7,9 @@ export default function Layout() {
   return (
     <div className="container mx-auto">
       <Header />
-      <Outlet />
+      <div style={{ minHeight: "calc(100vh - 200px)" }}>
+        <Outlet />
+      </div>
       <Footer />
     </div>
   );
