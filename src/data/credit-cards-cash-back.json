@@ -1,0 +1,90 @@
+[
+  {
+    "Category": "All",
+    "Credit_Cards": "Citi® Double Cash Card",
+    "Cash_back": "2%",
+    "Fee": "$0",
+    "Issuer": "Citi",
+    "Note": "If you prefer simplicity, the Citi® Double Cash Card offers straightforward rewards."
+  },
+  {
+    "Category": "Category",
+    "Credit_Cards": "U.S. Bank Cash+® Visa Signature® Card",
+    "Cash_back": "5%",
+    "Fee": "$0",
+    "Issuer": "U.S. Bank",
+    "Note": "Great for utility bills with customizable 5% cash back categories."
+  },
+  {
+    "Category": "Costco",
+    "Credit_Cards": "Costco Anywhere Visa® Card by Citi",
+    "Cash_back": "2% to 4%",
+    "Fee": "Costco membership",
+    "Issuer": "Citi",
+    "Note": "Ideal for Costco shopping with additional rewards on gas and dining."
+  },
+  {
+    "Category": "Food",
+    "Credit_Cards": "U.S. Bank Altitude® Go Visa Signature® Card",
+    "Cash_back": "4%",
+    "Fee": "$0",
+    "Issuer": "U.S. Bank",
+    "Note": "Earns 4% cash back on dining, including takeout and delivery."
+  },
+  {
+    "Category": "Food",
+    "Credit_Cards": "Costco Anywhere Visa® Card by Citi",
+    "Cash_back": "3%",
+    "Fee": "Costco membership",
+    "Issuer": "Citi",
+    "Note": "Offers 3% cash back on restaurants and eligible travel purchases."
+  },
+  {
+    "Category": "Food",
+    "Credit_Cards": "Hilton Honors American Express Card",
+    "Cash_back": "5x points (approx. 1.9%)",
+    "Fee": "$0",
+    "Issuer": "American Express",
+    "Note": "Earns 5x Hilton Honors points at U.S. restaurants."
+  },
+  {
+    "Category": "Gas",
+    "Credit_Cards": "Costco Anywhere Visa® Card by Citi",
+    "Cash_back": "4%",
+    "Fee": "Costco membership",
+    "Issuer": "Citi",
+    "Note": "Provides 4% cash back on eligible gas worldwide, including at Costco."
+  },
+  {
+    "Category": "Gas",
+    "Credit_Cards": "Blue Cash Preferred® Card from American Express",
+    "Cash_back": "3%",
+    "Fee": "$95",
+    "Issuer": "American Express",
+    "Note": "Offers 3% cash back at U.S. gas stations."
+  },
+  {
+    "Category": "Grocery",
+    "Credit_Cards": "Blue Cash Preferred® Card from American Express",
+    "Cash_back": "6%",
+    "Fee": "$95",
+    "Issuer": "American Express",
+    "Note": "Earns 6% cash back at U.S. supermarkets (up to $6,000 per year in purchases)."
+  },
+  {
+    "Category": "Grocery",
+    "Credit_Cards": "Blue Cash Everyday® Card from American Express",
+    "Cash_back": "3%",
+    "Fee": "$0",
+    "Issuer": "American Express",
+    "Note": "Offers 3% cash back at U.S. supermarkets (up to $6,000 per year in purchases)."
+  },
+  {
+    "Category": "Hotel/Hilton",
+    "Credit_Cards": "Hilton Honors American Express Card",
+    "Cash_back": "7x points (approx. 2.7%)",
+    "Fee": "$0",
+    "Issuer": "American Express",
+    "Note": "Earns 7x Hilton Honors points on eligible purchases at Hilton properties."
+  }
+]
